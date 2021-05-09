@@ -1,2 +1,2 @@
-# Coll
-Coll example
+# collisionAlgorithm
+Algorithm to detect collision between two objects
